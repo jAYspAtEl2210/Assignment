@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PagesLinkinApp</string>
+    <string name="string1">Hello</string>
+    <string name="string2">Welcome</string>
+    <string name="string3">Android</string>
+    <string name="string4">Assignment</string>
+    <string name="string5">Finished</string>
+
+</resources>
